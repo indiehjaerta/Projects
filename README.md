@@ -7,6 +7,6 @@ I will update this later. When I feel confident enough in sharing what I've been
 
 ## Projects Repositories:
 
-# Where did my money go?  
+### Where did my money go?  
 A budget application to help you track your economy  
 Build with Next.js, React.js, GraphQL (Apollo Server/Client), MongoDB, Styled Components  
